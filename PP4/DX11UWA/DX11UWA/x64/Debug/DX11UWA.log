@@ -1,0 +1,50 @@
+﻿C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\Content\SamplePixelShader.hlsl(22,6-34): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\Content\SamplePixelShader.hlsl(27,7-73): warning X3206: implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\Content\SamplePixelShader.hlsl(34,28-56): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\Content\SamplePixelShader.hlsl(40,22-50): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\Content\SamplePixelShader.hlsl(51,21-49): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\Content\SamplePixelShader.hlsl(52,75-103): warning X3206: 'Sample': implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\SamplePixelShader.cso
+  compilation object save succeeded; see C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\SampleVertexShader.cso
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(10,6-37): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(11,9-40): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(15,7-76): warning X3206: implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(22,38-69): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(22,73-105): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(28,32-63): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(28,67-99): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(38,31-62): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(38,66-98): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(40,85-116): warning X3206: 'Sample': implicit truncation of vector type
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\CubePixelShader.hlsl(40,122-154): warning X3206: 'Sample': implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\CubePixelShader.cso
+  compilation object save succeeded; see C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\SkyBoxPixelShader.cso
+C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\DX11UWA\SkyBoxVertexShader.hlsl(26,21-72): warning X3578: Output value 'main' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\SkyBoxVertexShader.cso
+  pch.cpp
+  App.cpp
+  DDSTextureLoader.cpp
+  DeviceResources.cpp
+  DX11UWAMain.cpp
+  SampleFpsTextRenderer.cpp
+  Sample3DSceneRenderer.cpp
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(168): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data (compiling source file Content\Sample3DSceneRenderer.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(171): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file Content\Sample3DSceneRenderer.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(177): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data (compiling source file Content\Sample3DSceneRenderer.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(168): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data (compiling source file DX11UWAMain.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(171): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file DX11UWAMain.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(177): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data (compiling source file DX11UWAMain.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(168): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data (compiling source file App.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(171): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file App.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.h(177): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data (compiling source file App.cpp)
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\content\sample3dscenerenderer.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\dx11uwamain.cpp(33): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\dx11uwamain.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\dx11uwamain.cpp(35): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\dx11uwamain.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\josue\documents\github\project viewers\directx-project-viewer-\pp4\dx11uwa\dx11uwa\dx11uwamain.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+  DX11UWA.vcxproj -> C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\DX11UWA.exe
+  DX11UWA.vcxproj -> C:\Users\Josue\Documents\GitHub\Project Viewers\DirectX-Project-Viewer-\PP4\DX11UWA\x64\Debug\DX11UWA\DX11UWA.pdb (Partial PDB)

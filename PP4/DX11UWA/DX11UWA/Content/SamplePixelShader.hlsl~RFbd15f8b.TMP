@@ -1,0 +1,30 @@
+// Per-pixel color data passed through the pixel shader.
+//struct PixelShaderInput
+//{
+//	float4 pos : SV_POSITION;
+//	float3 uv : UV;
+//	
+//};
+//
+//// A pass-through function for the (interpolated) color data.
+//float4 main(PixelShaderInput input) : SV_TARGET
+//{
+//	return float4(input.uv, 1.0f);
+//}
+
+texture2D model : register(t0);
+
+SamplerState modelFilter : register(s0);
+
+float4 main(float4 pos : SV_POSITION, float4 uv : UV, float4 normal : NORMAL) : SV_TARGET
+{
+	//clip(uv.);
+	if (model.Sample(modelFilter, uv).a <= 0.5)
+	discard;
+	
+float4 lightDir = { -30, -30, 30, 1 };
+lightDir = -normalize(lightDir);
+float4 lightRatio = saturate(dot(lightDir, normalize(normal.xyz)));
+
+	return model.Sample(modelFilter, uv) * 0x00FF0000;
+}
